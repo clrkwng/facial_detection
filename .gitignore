@@ -1,0 +1,6 @@
+lightning_logs/
+data/
+facial_detection/
+saved_imgs/
+pickled_files/
+
